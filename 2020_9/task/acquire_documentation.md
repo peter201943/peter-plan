@@ -5,15 +5,12 @@ author:
     - pjm349@drexel.edu
     - peter201943@gmail.com
 time:   2020-7-9T14:48:00
-space:  31 nelson dr carlisle pa 17015
+space:  carlisle pa
 legal:  none
 tag:    dwsl management job
 ---
 
-
-
-
-## acquire documentation
+# acquire documentation
 
 - [x] plan this stuff out
 - [ ] allocate stuff to days
